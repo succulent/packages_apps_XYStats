@@ -69,8 +69,8 @@ public class Utilities
 	}
 
 	public static String getModVersion() {
-		if (SystemProperties.get("ro.xylon.modversion") != null){
-		return SystemProperties.get("ro.xylon.modversion");}
+		if (SystemProperties.get("ro.modversion") != null){
+		return SystemProperties.get("ro.modversion");}
 		else{ return "Theresnotamodversiongiven";}
 	}
 
