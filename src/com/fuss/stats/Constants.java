@@ -27,25 +27,5 @@ public class Constants
 	public static final String OPT_IN = "optin";
 	public static final String FIRST_BOOT = "firstboot";
     public static final String TAG = "FussStats";
-	
-	
-	//only for test not used in actual code.
-	public static final String TEST =
-			"<variablen>" +
-			"<isitrom>"+
-			"<DATA>true</DATA>"+
-			"</isitrom>"+
-			"<modname>"+
-			"<DATA>Project INFINITUM</DATA>"+
-			"</modname>"+
-			"<modversion>"+
-			"<DATA>Update 1</DATA>"+
-			"</modversion>"+
-			"<device>"+
-			"<DATA>galaxysl</DATA>"+
-			"</device>"+
-			"<builtdate>"+
-			"<DATA>20.20.20</DATA>"+
-			"</builtdate>"+
-			"</variablen>";
+    
 }
