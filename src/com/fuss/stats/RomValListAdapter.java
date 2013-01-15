@@ -42,7 +42,7 @@ public class RomValListAdapter extends BaseAdapter
 	public View getView(int position, View convertView, ViewGroup parent) 
 	{
 		ViewHolder holder = new ViewHolder();
-		convertView = mInflater.inflate(R.layout.list_item, null);
+		convertView = mInflater.inflate(R.layout.fuss_list_item, null);
 		
 		holder.headingTv = (TextView)convertView.findViewById(R.id.headingTv);
 		holder.valueTv = (TextView)convertView.findViewById(R.id.valueTv);

@@ -52,7 +52,7 @@ public class PreviewActivity extends Activity
 		@Override
 		public View getView(int position, View convertView, ViewGroup parent) 
 		{
-			convertView = getLayoutInflater().inflate(R.layout.list_item, null);			
+			convertView = getLayoutInflater().inflate(R.layout.fuss_list_item, null);			
 			((TextView)((LinearLayout)convertView).getChildAt(0)).setText(romValuesArray.get(position).getKey());
 			((TextView)((LinearLayout)convertView).getChildAt(1)).setText(romValuesArray.get(position).getValue());
 			return convertView;
