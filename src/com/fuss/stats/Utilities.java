@@ -61,19 +61,19 @@ public class Utilities
 	}
 
 	public static String getDevice() {
-		return SystemProperties.get("ro.fuss132.device");
+		return SystemProperties.get("ro.xylon.device");
 	}
 
 	public static String getModName() {
-		return SystemProperties.get("ro.fuss132.modname");
+		return SystemProperties.get("ro.xylon.modname");
 	}
 
 	public static String getModVersion() {
-		return SystemProperties.get("ro.fuss132.modversion");
+		return SystemProperties.get("ro.xylon.modversion");
 	}
 
 	public static String getBuiltDate() {
-		return SystemProperties.get("ro.fuss132.builtdate");
+		return SystemProperties.get("ro.xylon.builtdate");
 	}
 	
 	public static String digest(String input) {
