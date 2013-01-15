@@ -61,7 +61,7 @@ public class Utilities
 	}
 
 	public static String getDevice() {
-		return SystemProperties.get("ro.xylon.device");
+		return SystemProperties.get("ro.product.model");
 	}
 
 	public static String getModName() {
