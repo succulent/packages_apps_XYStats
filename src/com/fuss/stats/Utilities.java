@@ -69,7 +69,9 @@ public class Utilities
 	}
 
 	public static String getModVersion() {
-		return SystemProperties.get("ro.xylon.modversion");
+		if (SystemProperties.get("ro.xylon.modversion") != null){
+		return SystemProperties.get("ro.xylon.modversion");}
+		else{ return "Theresnotamodversiongiven";}
 	}
 
 	public static String getBuiltDate() {
