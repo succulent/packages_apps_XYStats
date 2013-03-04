@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="app_name">XYStats</string>
-    <string name="send_btn">Send</string>
+    <string name="app_name">Xylon Statisticss</string>
+    <string name="send_btn">Send statistics</string>
     <string name="link">http://www.team-blockbuster.com/stats/index.php</string>
     <string name="notification_ticker">Statistics Opted-In</string>
     <string name="notification_desc">Enable or Disable Anonymous Statistics</string>
-    <string name="notification_title">XYStats</string>
+    <string name="notification_title">Xylon Statistics</string>
     <string name="optin">Enable reporting</string>
-    <string name="thxoptin">Thank you for helping us make your experience better!</string>
-    <string name="sending">Sending…</string>
-    <string name="preview">Preview stats</string>
-    <string name="viewstats">View stats</string>
+    <string name="thxoptin">Thank you for helping us out!</string>
+    <string name="sending">Sending statistics data...</string>
+    <string name="preview">Preview statistics</string>
+    <string name="viewstats">View statistics</string>
 
 </resources>
