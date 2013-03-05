@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="app_name">Xylon Statisticss</string>
+    <string name="app_name">Xylon Statistics</string>
     <string name="send_btn">Send statistics</string>
     <string name="link">http://www.team-blockbuster.com/stats/index.php</string>
     <string name="notification_ticker">Statistics Opted-In</string>
