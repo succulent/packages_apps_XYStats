@@ -7,9 +7,9 @@
     <string name="notification_desc">Enable or Disable Anonymous Statistics</string>
     <string name="notification_title">Xylon Statistics</string>
     <string name="optin">Enable reporting</string>
-    <string name="thxoptin">Thank you for helping us out!</string>
-    <string name="sending">Sending statistics data...</string>
-    <string name="preview">Preview statistics</string>
-    <string name="viewstats">View statistics</string>
+    <string name="thxoptin">Thank you for helping us!</string>
+    <string name="sending">Sending stats...</string>
+    <string name="preview">Preview the stats</string>
+    <string name="viewstats">View the stats</string>
 
 </resources>
